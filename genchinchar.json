@@ -1,0 +1,336 @@
+{
+  "personajes": [
+    {
+      "id":"1",
+      "name": "Aether",
+      "age": "15",
+      "height": "162.5",
+      "gender":"male",
+      "birthday":"",
+      "foto":"",
+      "elemental_vision":"Anemo",
+      "region":"none"
+    },
+    {
+      "id":"2",
+      "name": "Albedo",
+      "age": "18",
+      "height": "162",
+      "gender":"male",
+      "birthday":"September 13",
+      "foto":"",
+      "elemental_vision":"Geo",
+      "region":"Montstadt"
+    },
+    {
+      "id":"3",
+      "name": "Aloy",
+      "age": "18",
+      "height": "162.5",
+      "gender":"female",
+      "birthday":"April 4",
+      "foto":"",
+      "elemental_vision":"Cryo",
+      "region":"none"
+    },
+
+    {
+      "id":"4",
+      "name": "Amber",
+      "age": "18",
+      "height": "162.6",
+      "gender":"female",
+      "birthday":"August 10",
+      "foto":"",
+      "elemental_vision":"Pyro",
+      "region":"Montstadt"
+    },
+    {
+      "id":"4",
+      "name": "Ayaka",
+      "age": "24",
+      "height": "158",
+      "gender":"female",
+      "birthday":"September 28",
+      "foto":"",
+      "elemental_vision":"Cryo",
+      "region":"Inazuma"
+    },
+    {
+      "id":"5",
+      "name": "Ayato",
+      "age": "24",
+      "height": "180.3",
+      "gender":"male",
+      "birthday":"March 26",
+      "foto":"",
+      "elemental_vision":"Hydro",
+      "region":"Inazuma"
+    },
+    {
+      "id":"6",
+      "name": "Barbara",
+      "age": "16",
+      "height": "157.4",
+      "gender":"female",
+      "birthday":"July 5",
+      "foto":"",
+      "elemental_vision":"Hydro",
+      "region":"Montstadt"
+    },
+    {
+      "id":"7",
+      "name": "Beidou",
+      "age": "27",
+      "height": "172.7",
+      "gender":"female",
+      "birthday":"February 14",
+      "foto":"",
+      "elemental_vision":"Electro",
+      "region":"Liuye"
+    },
+    {
+      "id":"8",
+      "name": "Bennett",
+      "age": "16",
+      "height": "162.5",
+      "gender":"male",
+      "birthday":"February 29",
+      "foto":"",
+      "elemental_vision":"Pyro",
+      "region":"Montstadt"
+    },
+    {
+      "id":"9",
+      "name": "Chongyun",
+      "age": "17",
+      "height": "162.5",
+      "gender":"male",
+      "birthday":"September 7",
+      "foto":"",
+      "elemental_vision":"Hydro",
+      "region":"Liuye"
+    },
+    {
+      "id":"10",
+      "name": "Diluc",
+      "age": "22",
+      "height": "185.4",
+      "gender":"male",
+      "birthday":"April 30",
+      "foto":"",
+      "elemental_vision":"Pyro",
+      "region":"Montstadt"
+    },
+    {
+      "id":"11",
+      "name": "Diona",
+      "age": "12",
+      "height": "134.6",
+      "gender":"female",
+      "birthday":"January 18",
+      "foto":"",
+      "elemental_vision":"Hydro",
+      "region":"Montstadt"
+    },
+    {
+      "id":"12",
+      "name": "Eula",
+      "age": "19",
+      "height": "172.7",
+      "gender":"female",
+      "birthday":"October 25",
+      "foto":"",
+      "elemental_vision":"Cryo",
+      "region":"Montstadt"
+    },
+    {
+      "id":"13",
+      "name": "Fischl",
+      "age": "16",
+      "height": "153.6",
+      "gender":"female",
+      "birthday":"May 27",
+      "foto":"",
+      "elemental_vision":"Electro",
+      "region":"Montstadt"
+    },
+    {
+      "id":"14",
+      "name": "Ganyu",
+      "age": "3000+",
+      "height": "160",
+      "gender":"female",
+      "birthday":"December 2",
+      "foto":"",
+      "elemental_vision":"Gryo",
+      "region":"Liuye"
+    },
+    {
+      "id":"15",
+      "name": "Gorou",
+      "age": "17",
+      "height": "161",
+      "gender":"male",
+      "birthday":"May 18",
+      "foto":"",
+      "elemental_vision":"Geo",
+      "region":"Inazuma"
+    },
+    {
+      "id":"16",
+      "name": "Hu Tao",
+      "age": "20",
+      "height": "156.2",
+      "gender":"female",
+      "birthday":"July 15",
+      "foto":"",
+      "elemental_vision":"Pyro",
+      "region":"Liuye"
+    },
+    {
+      "id":"17",
+      "name": "Itto",
+      "age": "24",
+      "height": "185.4",
+      "gender":"male",
+      "birthday":"June 1",
+      "foto":"",
+      "elemental_vision":"Geo",
+      "region":"Inazuma"
+    },
+    {
+      "id":"18",
+      "name": "Jean",
+      "age": "20",
+      "height": "172.7",
+      "gender":"female",
+      "birthday":"March 14",
+      "foto":"",
+      "elemental_vision":"Anemo",
+      "region":"Montstadt"
+    },
+    {
+      "id":"19",
+      "name": "Kaeya",
+      "age": "22",
+      "height": "185.4",
+      "gender":"male",
+      "birthday":"November 30",
+      "foto":"",
+      "elemental_vision":"Cryo",
+      "region":"Montstadt"
+    },
+    {
+      "id":"20",
+      "name": "Kazuha",
+      "age": "-",
+      "height": "161",
+      "gender":"male",
+      "birthday":"October 29",
+      "foto":"",
+      "elemental_vision":"Anemo",
+      "region":"Inazuma"
+    },
+    {
+      "id":"21",
+      "name": "Keqing",
+      "age": "17",
+      "height": "156.2",
+      "gender":"female",
+      "birthday":"November 20",
+      "foto":"",
+      "elemental_vision":"Electro",
+      "region":"Liuye"
+    },
+    {
+      "id":"22",
+      "name": "Klee",
+      "age": "10",
+      "height": "127",
+      "gender":"female",
+      "birthday":"July 27",
+      "foto":"",
+      "elemental_vision":"Pyro",
+      "region":"Montstadt"
+    },
+    {
+      "id":"23",
+      "name": "Kokomi",
+      "age": "18",
+      "height": "161",
+      "gender":"emale",
+      "birthday":"February 22",
+      "foto":"",
+      "elemental_vision":"Hydro",
+      "region":"Inazuma"
+    },
+    {
+      "id":"24",
+      "name": "Lisa",
+      "age": "26",
+      "height": "180.3",
+      "gender":"female",
+      "birthday":"August 16",
+      "foto":"",
+      "elemental_vision":"Electro",
+      "region":"Montstadt"
+    },
+    {
+      "id":"25",
+      "name": "Mona",
+      "age": "19",
+      "height": "165.1",
+      "gender":"female",
+      "birthday":"August 31",
+      "foto":"",
+      "elemental_vision":"Hydro",
+      "region":"Montstadt"
+    },
+    {
+      "id":"26",
+      "name": "Ningguang",
+      "age": "25",
+      "height": "180.3",
+      "gender":"female",
+      "birthday":"August 26",
+      "foto":"",
+      "elemental_vision":"Geo",
+      "region":"Liuye"
+    },
+    {
+      "id":"27",
+      "name": "Noelle",
+      "age": "15",
+      "height": "157.4",
+      "gender":"female",
+      "birthday":"March 21",
+      "foto":"",
+      "elemental_vision":"Geo",
+      "region":"Montstadt"
+    },
+    {
+      "id":"28",
+      "name": "Qiqi",
+      "age": "8",
+      "height": "139.7",
+      "gender":"female",
+      "birthday":"March 3",
+      "foto":"",
+      "elemental_vision":"Cryo",
+      "region":"Liuye"
+    },
+    {
+      "id":"",
+      "name": "",
+      "age": "",
+      "height": "",
+      "gender":"",
+      "birthday":"",
+      "foto":"",
+      "elemental_vision":"",
+      "region":""
+    },
+
+  ]
+}
